@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://8hi-india.com
+Sitemap: https://8hi-india.com/sitemap.xml
